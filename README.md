@@ -1,0 +1,10 @@
+# RSA Factoring Challenge
+
+The RSA Factoring Challenge was a competition organized by RSA Laboratories, the research division of RSA Security, to encourage researchers to find efficient ways to factor large integers. The challenge ran from 1991 to 2007 and offered cash prizes for the successful factorization of a series of increasingly large composite integers. The goal of the challenge was to demonstrate the difficulty of factoring large numbers, which is a crucial aspect of the security of the RSA public key encryption system.
+
+RSA encryption is a widely used method of secure communication that relies on the computational difficulty of factoring large composite integers. The security of RSA is based on the assumption that it is computationally infeasible to factorize a large composite integer into its prime factors. If an attacker could efficiently factorize the composite integer, they could use this information to break the encryption and read the encrypted message.
+
+The RSA Factoring Challenge was intended to demonstrate the strength of RSA by offering cash prizes for the successful factorization of increasingly large composite integers. The challenge started with a composite integer of 155 digits and increased the size of the composite integer with each subsequent round. The final round of the challenge featured a composite integer with 663 digits, which was not successfully factored until 2007, when a team of researchers used a distributed computing project called the Great Internet Mersenne Prime Search (GIMPS) to factor the composite integer.
+
+Despite the successful factorization of the final composite integer in the RSA Factoring Challenge, RSA encryption remains a widely used and secure method of communication. However, the development of more advanced mathematical techniques and the increasing power of computers has led to the discovery of more efficient methods for factoring large integers, which has led to the development of alternative encryption methods that are based on different mathematical problems that are believed to be even more difficult to solve.
+
